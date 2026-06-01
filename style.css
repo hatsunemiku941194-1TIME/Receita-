@@ -99,3 +99,8 @@ hr {
     border: 1px solid #e0d8d1;
     margin-block: 32px;
 }
+
+.modo li::marker {
+    color: #854632;
+    font-weight: 700;
+}
